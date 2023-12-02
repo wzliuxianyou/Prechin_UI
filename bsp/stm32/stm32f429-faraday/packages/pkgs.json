@@ -1,0 +1,32 @@
+[
+ {
+  "path": "/packages/iot/ota_downloader", 
+  "ver": "latest", 
+  "name": "OTA_DOWNLOADER"
+ }, 
+ {
+  "path": "/packages/language/jerryscript", 
+  "ver": "latest", 
+  "name": "JERRYSCRIPT"
+ }, 
+ {
+  "path": "/packages/multimedia/LVGL/LVGL", 
+  "ver": "v8.3-latest", 
+  "name": "LVGL"
+ }, 
+ {
+  "path": "/packages/system/fal", 
+  "ver": "latest", 
+  "name": "FAL"
+ }, 
+ {
+  "path": "/packages/system/minIni", 
+  "ver": "v1.2.0", 
+  "name": "MININI"
+ }, 
+ {
+  "path": "/packages/peripherals/touch/xpt2046", 
+  "ver": "latest", 
+  "name": "XPT2046_TOUCH"
+ }
+]
